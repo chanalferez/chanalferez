@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="190" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" width="880" height="190" role="img" aria-labelledby="title description">
   <title id="title">Christian Alferez | Senior Software Developer</title>
   <desc id="description">A GitHub-dark banner showing web, desktop, and mobile dispatchers routing through an API to three services, a cache, and a database.</desc>
   <defs>
@@ -32,7 +32,7 @@
   <rect x="0.5" y="0.5" width="879" height="189" fill="none" stroke="#21262d"/>
 
   <line x1="24" y1="158" x2="856" y2="158" stroke="#21262d"/>
-  <line x1="460" y1="10" x2="460" y2="158" stroke="#21262d" stroke-dasharray="2 4"/>
+  <line x1="460" y1="0" x2="460" y2="158" stroke="#21262d" stroke-dasharray="2 4"/>
 
   <text x="24" y="45" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.5" fill="#e6edf3">Christian Alferez</text>
   <text x="25" y="85" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#00ADD1">SENIOR SOFTWARE DEVELOPER</text>
