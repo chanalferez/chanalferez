@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="190" role="img" aria-labelledby="title description">
+  <title id="title">Christian Alferez | Senior Software Developer</title>
+  <desc id="description">A GitHub-dark banner showing web, desktop, and mobile dispatchers routing through an API to three services, a cache, and a database.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <path id="clientWeb" d="M 530 37 L 550 80" fill="none"/>
+    <path id="clientDesktop" d="M 530 80 L 550 80" fill="none"/>
+    <path id="clientMobile" d="M 530 123 L 550 80" fill="none"/>
+    <path id="apiService1" d="M 594 80 L 614 37" fill="none"/>
+    <path id="apiService2" d="M 594 80 L 614 80" fill="none"/>
+    <path id="apiService3" d="M 594 80 L 614 123" fill="none"/>
+    <path id="serviceCache1" d="M 674 37 L 694 80" fill="none"/>
+    <path id="serviceCache2" d="M 674 80 L 694 80" fill="none"/>
+    <path id="serviceCache3" d="M 674 123 L 694 80" fill="none"/>
+    <path id="cacheDatabase" d="M 738 80 L 758 80" fill="none"/>
+    <path id="databaseCache" d="M 758 80 L 738 80" fill="none"/>
+    <path id="cacheService1" d="M 694 80 L 674 37" fill="none"/>
+    <path id="cacheService2" d="M 694 80 L 674 80" fill="none"/>
+    <path id="cacheService3" d="M 694 80 L 674 123" fill="none"/>
+    <path id="serviceApi1" d="M 614 37 L 594 80" fill="none"/>
+    <path id="serviceApi2" d="M 614 80 L 594 80" fill="none"/>
+    <path id="serviceApi3" d="M 614 123 L 594 80" fill="none"/>
+    <path id="apiClientWeb" d="M 550 80 L 530 37" fill="none"/>
+    <path id="apiClientDesktop" d="M 550 80 L 530 80" fill="none"/>
+    <path id="apiClientMobile" d="M 550 80 L 530 123" fill="none"/>
+  </defs>
+
+  <rect width="880" height="190" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="879" height="189" fill="none" stroke="#21262d"/>
+
+  <line x1="24" y1="158" x2="856" y2="158" stroke="#21262d"/>
+  <line x1="460" y1="10" x2="460" y2="158" stroke="#21262d" stroke-dasharray="2 4"/>
+
+  <text x="24" y="45" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.5" fill="#e6edf3">Christian Alferez</text>
+  <text x="25" y="85" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#00ADD1">SENIOR SOFTWARE DEVELOPER</text>
+  <text x="25" y="110" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#7d8590">.NET · Azure · APIs · CLOUD INTEGRATION · SQL</text>
+
+  <g fill="none" stroke="#21262d" stroke-width="1">
+    <use href="#clientWeb"/>
+    <use href="#clientDesktop"/>
+    <use href="#clientMobile"/>
+    <use href="#apiService1"/>
+    <use href="#apiService2"/>
+    <use href="#apiService3"/>
+    <use href="#serviceCache1"/>
+    <use href="#serviceCache2"/>
+    <use href="#serviceCache3"/>
+    <use href="#cacheDatabase"/>
+  </g>
+
+  <rect x="474" y="26" width="56" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="502" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#58a6a6" text-anchor="middle">WEB</text>
+  <rect x="474" y="69" width="56" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="502" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="7" fill="#58a6a6" text-anchor="middle">DESKTOP</text>
+  <rect x="474" y="112" width="56" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="502" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#58a6a6" text-anchor="middle">MOBILE</text>
+
+  <rect x="550" y="68" width="44" height="24" rx="3" fill="#161b22" stroke="#00ADD1" stroke-width="1.2"/>
+  <text x="572" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#00ADD1" text-anchor="middle">API</text>
+
+  <rect x="614" y="26" width="60" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="644" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="7" fill="#58a6a6" text-anchor="middle">SERVICE 1</text>
+  <rect x="614" y="69" width="60" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="644" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="7" fill="#58a6a6" text-anchor="middle">SERVICE 2</text>
+  <rect x="614" y="112" width="60" height="22" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="644" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="7" fill="#58a6a6" text-anchor="middle">SERVICE 3</text>
+
+  <rect x="694" y="68" width="44" height="24" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="716" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#58a6a6" text-anchor="middle">CACHE</text>
+
+  <rect x="758" y="68" width="84" height="24" rx="3" fill="#161b22" stroke="#58a6a6" stroke-width="1.2"/>
+  <text x="800" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#58a6a6" text-anchor="middle">DATABASE</text>
+
+  <circle r="2.4" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0s"><mpath href="#clientWeb"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.4" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.8s"><mpath href="#clientDesktop"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.8s"/>
+  </circle>
+  <circle r="2.4" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.6s"><mpath href="#clientMobile"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.6s"/>
+  </circle>
+
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.2s"><mpath href="#apiService1"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+  </circle>
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="2s"><mpath href="#apiService2"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.4s"><mpath href="#apiService3"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.4s"/>
+  </circle>
+
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.6s"><mpath href="#serviceCache1"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.4s"><mpath href="#serviceCache2"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.4s"/>
+  </circle>
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="2.2s"><mpath href="#serviceCache3"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="2.2s"/>
+  </circle>
+
+  <circle r="2" fill="#29a73e">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1s"><mpath href="#cacheDatabase"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1s"><mpath href="#databaseCache"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.6s"><mpath href="#cacheService1"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.4s"><mpath href="#cacheService2"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.4s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="2.2s"><mpath href="#cacheService3"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="2.2s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.2s"><mpath href="#serviceApi1"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="2s"><mpath href="#serviceApi2"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.4s"><mpath href="#serviceApi3"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.4s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0s"><mpath href="#apiClientWeb"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="0.8s"><mpath href="#apiClientDesktop"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="0.8s"/>
+  </circle>
+  <circle r="2" fill="#58a6a6">
+    <animateMotion dur="2.4s" repeatCount="indefinite" begin="1.6s"><mpath href="#apiClientMobile"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite" begin="1.6s"/>
+  </circle>
+
+  <circle cx="572" cy="80" r="8" fill="none" stroke="#00ADD1" stroke-width="1">
+    <animate attributeName="r" values="6;11;6" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="856" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590" text-anchor="end">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
+    SOFTWARE ENGINEERING · Web / Desktop / Mobile Applications
+  </text>
+  <text x="856" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590" text-anchor="end">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
+    MULTI-TENANT · SAAS · MICROSERVICES · Cloud Integration
+  </text>
+  <text x="856" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590" text-anchor="end">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
+    .NET / AZURE / Git · MSSQL / POSTGRESQL · EF / DAPPER
+  </text>
+</svg>
